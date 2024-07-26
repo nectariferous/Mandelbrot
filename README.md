@@ -1,2 +1,3 @@
-# Mandelbrot
-This script generates an image of the Mandelbrot set, which is a famous fractal named after the mathematician Benoit Mandelbrot. The image is created by iterating over each pixel in the image and calculating the number of iterations it takes for the corresponding complex number to escape the Mandelbrot set. 
+This script generates an image of the Mandelbrot set, which is a famous fractal named after the mathematician Benoit Mandelbrot. The image is created by iterating over each pixel in the image and calculating the number of iterations it takes for the corresponding complex number to escape the Mandelbrot set. The resulting image is a beautiful and intricate pattern that exhibits self-similarity at different scales.
+
+To run this script, save it to a file with a `.py` extension (e.g. `main.py`) and run it using Python (e.g. `python main.py`). This will generate the image and display it using Matplotlib.
